@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.4.7](https://github.com/eslint/create-config/compare/v0.4.6...v0.4.7) (2023-10-25)
+
+
+### Chores
+
+* run tests in Node.js 21 ([#76](https://github.com/eslint/create-config/issues/76)) ([bd20976](https://github.com/eslint/create-config/commit/bd209765bb01fe30c5281443aecc312dcb9141de))
+* run tests on all supported versions of Node.js ([#77](https://github.com/eslint/create-config/issues/77)) ([f7da13a](https://github.com/eslint/create-config/commit/f7da13a07978d0674fee4371002053d7b24ef489))
+* standardize npm script names ([#69](https://github.com/eslint/create-config/issues/69)) ([38d293a](https://github.com/eslint/create-config/commit/38d293af65e467829d286911442a124a10d9b926))
+* switch to eslint flat config ([#73](https://github.com/eslint/create-config/issues/73)) ([4bde28a](https://github.com/eslint/create-config/commit/4bde28a7011591cfaa6d86c852f4fb41b6e5be08))
+
 ## [0.4.6](https://github.com/eslint/create-config/compare/v0.4.5...v0.4.6) (2023-07-24)
 
 
